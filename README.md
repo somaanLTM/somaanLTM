@@ -9,7 +9,6 @@
 - 🔭 Building full-stack web applications
 - 📍 Bengaluru, India
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
