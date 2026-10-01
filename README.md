@@ -26,11 +26,7 @@
 
 ## 📂 Featured Projects
 
-### 🛴 Electric Scooter Management System
-Spring Boot + Angular CRUD Application
 
-### 🛒 E-Commerce Application
-Spring Security + JWT Authentication
 
 ---
 
@@ -54,6 +50,3 @@ Spring Security + JWT Authentication
 ---
 
 ## 📫 Connect With Me
-
-- LinkedIn: Add Your LinkedIn URL
-- Email: Add Your Email
