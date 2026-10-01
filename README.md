@@ -29,12 +29,12 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somaanLTM&show_icons=true&
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somaanLTM&layout=compact&theme=
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=somaanLTM&show_icons=true&theme=tokyonight
+  https://github-readme-stats.vercel.app/api/top-langs/?username=somaanLTM&layout=compact&theme=tokyonight
+</p>
 ---
 
 ## 🎯 Current Focus
